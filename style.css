@@ -1,0 +1,24 @@
+body {
+    background-color: #2c3e50;
+    font-family: Arial;
+    padding: 40px;
+    color: white;
+}
+
+h1 {
+    color: #3498db;
+    font-size: 45px;
+}
+
+h2 {
+    display: flex;
+    color: #e74c3c;
+    font-size: 28px;
+}
+
+img {
+    width: 400px;
+    max-width: 100%;
+    border-radius: 10px;
+    margin: 20px 0;
+}
